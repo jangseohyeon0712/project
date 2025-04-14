@@ -102,3 +102,50 @@ footer {
   margin-top: 3rem;
   font-size: 0.9rem;
 }
+
+/* 🎨 애니메이션 정의 */
+
+@keyframes floatUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeDark {
+  from { opacity: 0; filter: brightness(0.6); }
+  to   { opacity: 1; filter: brightness(1); }
+}
+
+@keyframes blinkColor {
+  0%, 100% { filter: hue-rotate(0deg); }
+  50%      { filter: hue-rotate(90deg); }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-8px); }
+}
+
+@keyframes fadeSmooth {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.anim-float-up {
+  animation: floatUp 0.6s ease-out;
+}
+
+.anim-fade-dark {
+  animation: fadeDark 0.6s ease-out;
+}
+
+.anim-blink-color {
+  animation: blinkColor 1.2s ease-in-out infinite;
+}
+
+.anim-bounce {
+  animation: bounce 0.4s ease-out;
+}
+
+.anim-fade-smooth {
+  animation: fadeSmooth 0.6s ease-in-out;
+}
