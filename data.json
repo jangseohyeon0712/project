@@ -60,6 +60,22 @@
     "https://via.placeholder.com/300x200?text=Techwear+Look+1",
     "https://via.placeholder.com/300x200?text=Techwear+Look+2"
   ]
+},
+  {
+  "name": "아메카지",
+  "desc": "아메리칸 캐주얼을 기반으로 한 빈티지한 스타일로 데님, 워크웨어, 밀리터리 감성을 조합합니다.",
+  "fabrics": ["데님", "코듀로이", "왁스드 코튼"],
+  "brands": ["Visvim", "Kapital", "Warehouse", "The Real McCoy's"],
+  "history": [
+    { "year": "1980s", "event": "일본에서 빈티지 워크웨어 문화로 등장" },
+    { "year": "2000s", "event": "미국 캐주얼과 믹스되며 독자적 스타일 완성" },
+    { "year": "2020s", "event": "시티보이와 결합해 재조명됨" }
+  ],
+  "gallery": [
+    "https://via.placeholder.com/300x200?text=Amekaji+Look+1",
+    "https://via.placeholder.com/300x200?text=Amekaji+Look+2"
+  ]
 }
+
 
 ]
