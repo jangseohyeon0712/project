@@ -105,5 +105,21 @@
     "https://via.placeholder.com/300x200?text=Gorpcore+Look+1",
     "https://via.placeholder.com/300x200?text=Gorpcore+Look+2"
   ]
+},
+  {
+  "name": "젠더리스",
+  "desc": "성별 구분 없이 나 자신을 표현하는 중성적이고 자유로운 스타일입니다.",
+  "fabrics": ["코튼", "레이온", "린넨", "울"],
+  "brands": ["Telfar", "Comme des Garçons", "Y/Project", "JW Anderson"],
+  "history": [
+    { "year": "2010s", "event": "하이패션 브랜드 중심으로 중성적 스타일 등장" },
+    { "year": "2020s", "event": "SNS와 K-패션을 통해 젠더리스 트렌드 확산" },
+    { "year": "2023s", "event": "Z세대와 알파세대의 정체성 표현 방식으로 정착" }
+  ],
+  "gallery": [
+    "https://via.placeholder.com/300x200?text=Genderless+Look+1",
+    "https://via.placeholder.com/300x200?text=Genderless+Look+2"
+  ]
 }
+
 ]
