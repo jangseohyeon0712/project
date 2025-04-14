@@ -45,5 +45,21 @@
     "https://via.placeholder.com/300x200?text=Workwear+Look+1",
     "https://via.placeholder.com/300x200?text=Workwear+Look+2"
   ]
+},
+  {
+  "name": "테크웨어",
+  "desc": "기능성과 미래지향적 실루엣을 결합한 스타일로, 어둡고 유틸리티한 디자인이 특징입니다.",
+  "fabrics": ["고어텍스", "나일론 립스탑", "폴리에스터", "방수 원단"],
+  "brands": ["ACRONYM", "Nike ACG", "Stone Island Shadow Project", "Guerrilla Group"],
+  "history": [
+    { "year": "2000s", "event": "기능성 의류 브랜드 ACRONYM 중심으로 시작" },
+    { "year": "2010s", "event": "스트리트웨어와 하이엔드의 경계에서 확산" },
+    { "year": "2020s", "event": "유틸리티 & 아웃도어 감성과 융합되어 인기 상승" }
+  ],
+  "gallery": [
+    "https://via.placeholder.com/300x200?text=Techwear+Look+1",
+    "https://via.placeholder.com/300x200?text=Techwear+Look+2"
+  ]
 }
+
 ]
