@@ -75,7 +75,23 @@
     "https://via.placeholder.com/300x200?text=Amekaji+Look+1",
     "https://via.placeholder.com/300x200?text=Amekaji+Look+2"
   ]
+},
+  {
+  "name": "시티보이",
+  "desc": "도심 속 일상에서 편안함과 감성을 중시하는 스트리트 기반의 루즈핏 스타일입니다.",
+  "fabrics": ["코튼", "데님", "플란넬", "울"],
+  "brands": ["BEAMS", "UNIQLO", "AURALEE", "NANAMICA"],
+  "history": [
+    { "year": "2010s", "event": "일본 패션잡지 'POPEYE'에서 유행 시작" },
+    { "year": "2015s", "event": "루즈핏, 기본템 중심 스타일로 확산" },
+    { "year": "2020s", "event": "Z세대 SNS 통해 글로벌하게 인기 상승" }
+  ],
+  "gallery": [
+    "https://via.placeholder.com/300x200?text=Cityboy+Look+1",
+    "https://via.placeholder.com/300x200?text=Cityboy+Look+2"
+  ]
 }
+
 
 
 ]
