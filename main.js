@@ -19,6 +19,26 @@ function loadStyles() {
     const card = document.createElement("div");
     card.className = "style-card";
     card.innerHTML = `<h3>${style.name}</h3><p>${style.desc}</p>`;
+
+    // 🎨 스타일 이름에 따라 애니메이션 클래스 부여
+    switch (style.name) {
+      case "프레피":
+        card.classList.add("anim-float-up");
+        break;
+      case "테크웨어":
+        card.classList.add("anim-fade-dark");
+        break;
+      case "키치":
+        card.classList.add("anim-blink-color");
+        break;
+      case "펑크":
+        card.classList.add("anim-bounce");
+        break;
+      case "젠더리스":
+        card.classList.add("anim-fade-smooth");
+        break;
+    }
+
     card.addEventListener("click", () => showDetail(index));
     selector.appendChild(card);
   });
