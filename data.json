@@ -90,8 +90,20 @@
     "https://via.placeholder.com/300x200?text=Cityboy+Look+1",
     "https://via.placeholder.com/300x200?text=Cityboy+Look+2"
   ]
+},
+  {
+  "name": "고프코어",
+  "desc": "실용적인 아웃도어 스타일을 스트리트 감성으로 재해석한 유틸리티 중심의 스타일입니다.",
+  "fabrics": ["고어텍스", "플리스", "나일론", "폴리에스터"],
+  "brands": ["The North Face", "Arc'teryx", "Patagonia", "Salomon"],
+  "history": [
+    { "year": "2010s", "event": "미국 캠핑 및 등산 패션에서 시작" },
+    { "year": "2020s", "event": "SNS 통해 일상복으로 확산되며 트렌드화" },
+    { "year": "2023s", "event": "하이엔드 브랜드들과 협업하며 패션계 정착" }
+  ],
+  "gallery": [
+    "https://via.placeholder.com/300x200?text=Gorpcore+Look+1",
+    "https://via.placeholder.com/300x200?text=Gorpcore+Look+2"
+  ]
 }
-
-
-
 ]
