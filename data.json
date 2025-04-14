@@ -120,6 +120,39 @@
     "https://via.placeholder.com/300x200?text=Genderless+Look+1",
     "https://via.placeholder.com/300x200?text=Genderless+Look+2"
   ]
+},
+  {
+  "name": "스트릿",
+  "desc": "거리 문화에서 시작된 자유롭고 개성 있는 스타일로, 힙합・스케이트・그래픽 중심의 감성이 특징입니다.",
+  "fabrics": ["코튼 저지", "데님", "플리스", "나일론"],
+  "brands": ["Supreme", "Stüssy", "A Bathing Ape", "Palace"],
+  "history": [
+    { "year": "1980s", "event": "뉴욕 힙합과 LA 스케이트 문화에서 시작" },
+    { "year": "1990s", "event": "하위문화로 전 세계 청소년에게 확산" },
+    { "year": "2020s", "event": "하이패션과 협업하며 메인스트림으로 진입" }
+  ],
+  "gallery": [
+    "https://via.placeholder.com/300x200?text=Street+Look+1",
+    "https://via.placeholder.com/300x200?text=Street+Look+2"
+  ]
+},
+  {
+  "name": "키치",
+  "desc": "촌스러움, 유치함, 과장을 스타일로 승화한 유쾌하고 독창적인 패션 스타일입니다.",
+  "fabrics": ["폴리에스터", "스팽글", "벨벳", "퍼", "PVC"],
+  "brands": ["Moschino", "Ashley Williams", "Lazy Oaf", "Lisa Says Gah"],
+  "history": [
+    { "year": "1990s", "event": "비주류 스트릿 문화에서 패러디와 유머로 시작" },
+    { "year": "2010s", "event": "SNS와 유튜브를 통해 10대 중심으로 확산" },
+    { "year": "2020s", "event": "MZ세대의 자기표현 수단으로 주류에 등장" }
+  ],
+  "gallery": [
+    "https://via.placeholder.com/300x200?text=Kitsch+Look+1",
+    "https://via.placeholder.com/300x200?text=Kitsch+Look+2"
+  ]
 }
+
+  
+
 
 ]
