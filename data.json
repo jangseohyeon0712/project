@@ -29,5 +29,21 @@
       "https://via.placeholder.com/300x200?text=Minimal+Look+1",
       "https://via.placeholder.com/300x200?text=Minimal+Look+2"
     ]
-  }
+  },
+  {
+  "name": "워크웨어",
+  "desc": "노동자 복장에서 유래된 실용적이고 견고한 스타일로, 거칠고 투박한 멋이 특징입니다.",
+  "fabrics": ["데님", "코튼 캔버스", "더클", "왁스드 코튼"],
+  "brands": ["Carhartt", "Dickies", "Engineered Garments", "Nigel Cabourn"],
+  "history": [
+    { "year": "1900s", "event": "미국 노동자들의 작업복에서 기원" },
+    { "year": "1970s", "event": "스트리트 패션에 일부 차용되기 시작" },
+    { "year": "2010s", "event": "아메카지, 시티보이 트렌드와 함께 대중화" },
+    { "year": "2020s", "event": "밀리터리, 아웃도어와 믹스되어 재해석" }
+  ],
+  "gallery": [
+    "https://via.placeholder.com/300x200?text=Workwear+Look+1",
+    "https://via.placeholder.com/300x200?text=Workwear+Look+2"
+  ]
+}
 ]
